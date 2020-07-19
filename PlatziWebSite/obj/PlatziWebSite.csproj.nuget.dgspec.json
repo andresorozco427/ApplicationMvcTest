@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\ApplicationMvcTest\\PlatziWebSite\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\ApplicationMvcTest\\PlatziWebSite\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\ApplicationMvcTest\\PlatziWebSite\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\ApplicationMvcTest\\PlatziWebSite\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\andres.orozco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\Users\\andres.orozco\\Desktop\\CursoPlatziWebSite\\ApplicationMvcTest\\PlatziWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andres.orozco\\AppData\\Roaming\\NuGet\\NuGet.Config",
